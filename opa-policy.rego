@@ -1,9 +1,14 @@
-package uam
+package uam2
+
+default allow = false
 
 allow {
- userRole := data.userRoles[input.user] 
- resRole := data.resource2role[input.resource]
- userComb := data.roleCombination[uRole]
- resComb := data.roleCombination[eRole] 
- userComb[_]==resComb[_]
+
+    ldapGroups := data["uam"]["user2LdapGroups"][input.user];
+	ldapGroup := ldapGroups[_];
+	entGroup := data["uam"]["resource2EntGroup"][input.resource][_]; 
+	data["uam"]["entGroup2LdapGroups"][entGroup][_] == ldapGroup
+ 
+# data["uam"]["entGroup2LdapGroups"][data["uam"]["resource2EntGroup"][input.resource][_]][_] == data["uam"]["user2LdapGroups"][input.user][_]
+
 }
