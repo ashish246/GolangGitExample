@@ -1,6 +1,6 @@
 {
-	"lastmodified": "2020-03-20T12:30:12.697885Z",
-	"type": "FULL",
+	"lastmodified": "2020-03-20T12:32:32.349842Z",
+	"type": "INCREMENTAL",
 	"groups": {
 		"AU Digital BD Read": {
 			"commonName": "AU Digital BD Read",
@@ -138,10 +138,10 @@
 				"CSPUsr3",
 				"CSPUsr22",
 				"CSPUsr2",
-				"CAZ01"
+				"CAZ02"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"modifyTimestamp": "2020-03-09T23:10:20Z",
+			"modifyTimestamp": "2020-03-20T12:32:28Z",
 			"objectClass": [
 				"groupOfUniqueNames",
 				"top"
