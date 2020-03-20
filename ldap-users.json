@@ -1,5 +1,5 @@
 {
-	"lastmodified": "2020-03-20T12:30:12.703923Z",
+	"lastmodified": "2020-03-20T13:01:00.024175Z",
 	"type": "FULL",
 	"users": {
 		"1, lenovo": {
@@ -88,8 +88,7 @@
 			"memberOf": [
 				"AU Digital DAZ Read",
 				"AU Digital DAZ Write",
-				"AU Digital PLBD Write users",
-				"AU Digital CSP Support"
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -114,7 +113,8 @@
 			"memberOf": [
 				"AU Digital DAZ Read",
 				"AU Digital DAZ Write",
-				"AU Digital PLBD Write users"
+				"AU Digital PLBD Write users",
+				"AU Digital CSP Support"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
