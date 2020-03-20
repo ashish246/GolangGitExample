@@ -1,13 +1,11 @@
 {
-	"lastmodified": "2020-03-20T12:24:42.210767Z",
+	"lastmodified": "2020-03-20T12:30:12.697885Z",
 	"type": "FULL",
 	"groups": {
 		"AU Digital BD Read": {
-			"businessCategory": "",
 			"commonName": "AU Digital BD Read",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b643da8a-361f-1037-8b4f-65eead392ae4",
 			"hasSubordinates": false,
@@ -28,20 +26,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital BD Simple Wealth": {
-			"businessCategory": "",
 			"commonName": "AU Digital BD Simple Wealth",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital BD Simple Wealth,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b644259e-361f-1037-8b50-65eead392ae4",
 			"hasSubordinates": false,
@@ -59,20 +51,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital BD Write": {
-			"businessCategory": "",
 			"commonName": "AU Digital BD Write",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b643243c-361f-1037-8b4e-65eead392ae4",
 			"hasSubordinates": false,
@@ -96,20 +82,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital BDS SI Users": {
-			"businessCategory": "",
 			"commonName": "AU Digital BDS SI Users",
 			"createTimestamp": "2018-11-22T03:33:00Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital BDS SI Users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "0e0ac4b0-8253-1038-8e06-43d29c1be0d9",
 			"hasSubordinates": false,
@@ -122,20 +102,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital BDS Users": {
-			"businessCategory": "",
 			"commonName": "AU Digital BDS Users",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital CSP Batch,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6469dd8-361f-1037-8b58-65eead392ae4",
 			"hasSubordinates": false,
@@ -148,20 +122,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital CSP Support": {
-			"businessCategory": "",
 			"commonName": "AU Digital CSP Support",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital CSP Support,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6938b34-361f-1037-8d88-65eead392ae4",
 			"hasSubordinates": false,
@@ -178,20 +146,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital DAZ Read": {
-			"businessCategory": "",
 			"commonName": "AU Digital DAZ Read",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b644e9de-361f-1037-8b53-65eead392ae4",
 			"hasSubordinates": false,
@@ -236,20 +198,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital DAZ Write": {
-			"businessCategory": "",
 			"commonName": "AU Digital DAZ Write",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b644a6c2-361f-1037-8b52-65eead392ae4",
 			"hasSubordinates": false,
@@ -312,20 +268,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital KYC Admin": {
-			"businessCategory": "",
 			"commonName": "AU Digital KYC Admin",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital KYC Admin,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b64547da-361f-1037-8b54-65eead392ae4",
 			"hasSubordinates": false,
@@ -342,20 +292,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital KYC Write": {
-			"businessCategory": "",
 			"commonName": "AU Digital KYC Write",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital KYC Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6458d62-361f-1037-8b55-65eead392ae4",
 			"hasSubordinates": false,
@@ -372,20 +316,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital KYC Write (FP)": {
-			"businessCategory": "",
 			"commonName": "AU Digital KYC Write (FP)",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital KYC Write (FP),ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b645cc96-361f-1037-8b56-65eead392ae4",
 			"hasSubordinates": false,
@@ -398,20 +336,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital PLBD Write users": {
-			"businessCategory": "",
 			"commonName": "AU Digital PLBD Write users",
 			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6446608-361f-1037-8b51-65eead392ae4",
 			"hasSubordinates": false,
@@ -447,20 +379,14 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
 		},
 		"AU Digital Restricted BDS Users": {
-			"businessCategory": "",
 			"commonName": "AU Digital Restricted BDS Users",
 			"createTimestamp": "2018-11-22T03:31:20Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"description": "",
 			"entryDN": "cn=AU Digital Restricted BDS Users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "d2fd5d60-8252-1038-8e05-43d29c1be0d9",
 			"hasSubordinates": false,
@@ -473,10 +399,6 @@
 				"groupOfUniqueNames",
 				"top"
 			],
-			"organisation": "",
-			"organisationUnit": "",
-			"owner": "",
-			"seeAlso": "",
 			"structuralObjectClass": "groupOfUniqueNames",
 			"subschemaSubentry": "cn=Subschema",
 			"versionId": 1
