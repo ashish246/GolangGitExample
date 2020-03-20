@@ -1,5 +1,5 @@
 {
-	"lastmodified": "2020-03-20T12:10:44.034605Z",
+	"lastmodified": "2020-03-20T12:24:42.216031Z",
 	"type": "FULL",
 	"users": {
 		"1, lenovo": {
@@ -10,11 +10,11 @@
 			"description": "",
 			"entryDN": "cn=1\\2C lenovo,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b656d6da-361f-1037-8bfd-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -38,11 +38,11 @@
 			"description": "",
 			"entryDN": "cn=1\\2C lenovo123,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b656f480-361f-1037-8bfe-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -66,11 +66,11 @@
 			"description": "",
 			"entryDN": "cn=1\\2C lenovoplbduat002,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6570fe2-361f-1037-8bff-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -94,12 +94,12 @@
 			"description": "",
 			"entryDN": "cn=CAZ01,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6552a56-361f-1037-8bf3-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital CSP Support,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users",
+				"AU Digital CSP Support"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -123,11 +123,11 @@
 			"description": "",
 			"entryDN": "cn=CAZ02,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65557c4-361f-1037-8bf4-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -151,11 +151,11 @@
 			"description": "",
 			"entryDN": "cn=CAZ03,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6557362-361f-1037-8bf5-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -179,11 +179,11 @@
 			"description": "",
 			"entryDN": "cn=CAZ04,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b655a56c-361f-1037-8bf6-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -207,10 +207,10 @@
 			"description": "",
 			"entryDN": "cn=CAZ05,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b655bf34-361f-1037-8bf7-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -234,8 +234,8 @@
 			"description": "",
 			"entryDN": "cn=CI,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b688d004-361f-1037-8d77-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -258,8 +258,8 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr1,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6410ef4-361f-1037-8b40-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -282,8 +282,8 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr10,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6426ace-361f-1037-8b49-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -306,9 +306,9 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr2,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6412c2c-361f-1037-8b41-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital CSP Support,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital CSP Support"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -332,9 +332,9 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr21,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6428838-361f-1037-8b4a-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BDS Users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BDS Users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -358,10 +358,10 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr22,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b642bde4-361f-1037-8b4b-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BDS Users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital CSP Support,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BDS Users",
+				"AU Digital CSP Support"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -385,9 +385,9 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr23,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b642d9c8-361f-1037-8b4c-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BDS SI Users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BDS SI Users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -411,9 +411,9 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr24,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6430952-361f-1037-8b4d-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital CSP Batch,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital CSP Batch"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -437,9 +437,9 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr25,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "c1f83a3e-8253-1038-8e07-43d29c1be0d9",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital Restricted BDS Users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital Restricted BDS Users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2018-11-22T03:38:50Z",
@@ -463,9 +463,9 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr3,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6415f62-361f-1037-8b42-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital CSP Support,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital CSP Support"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -489,8 +489,8 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr4,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b641797a-361f-1037-8b43-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -513,8 +513,8 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr5,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b641aeae-361f-1037-8b44-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -537,8 +537,8 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr6,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b641cb82-361f-1037-8b45-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -561,8 +561,8 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr7,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b642052a-361f-1037-8b46-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -585,8 +585,8 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr8,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6421e84-361f-1037-8b47-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -609,8 +609,8 @@
 			"description": "",
 			"entryDN": "cn=CSPUsr9,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b642523c-361f-1037-8b48-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -633,8 +633,8 @@
 			"description": "",
 			"entryDN": "cn=DAZ_PLBD_USER,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68899f4-361f-1037-8d76-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -657,10 +657,10 @@
 			"description": "",
 			"entryDN": "cn=DAZ_READ_USER,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6883d38-361f-1037-8d74-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Read",
+				"AU Digital DAZ Read"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -684,8 +684,8 @@
 			"description": "",
 			"entryDN": "cn=DAZ_WEALTH_USER,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68870c8-361f-1037-8d75-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -708,9 +708,9 @@
 			"description": "",
 			"entryDN": "cn=DAZ_WRITE_USER,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b688201e-361f-1037-8d73-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -734,11 +734,11 @@
 			"description": "",
 			"entryDN": "cn=DAZ_superuser,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b687e77a-361f-1037-8d72-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Write",
+				"AU Digital BD Read",
+				"AU Digital DAZ Read"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -762,9 +762,9 @@
 			"description": "",
 			"entryDN": "cn=Dunn\\2C Nigel (Admin),ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65e9ea6-361f-1037-8c4d-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -788,8 +788,8 @@
 			"description": "",
 			"entryDN": "cn=Guest,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b686d15a-361f-1037-8d6d-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -812,9 +812,9 @@
 			"description": "",
 			"entryDN": "cn=IKCF61,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65bb40c-361f-1037-8c21-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -838,9 +838,9 @@
 			"description": "",
 			"entryDN": "cn=IKCF62,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65bd4fa-361f-1037-8c22-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -864,9 +864,9 @@
 			"description": "",
 			"entryDN": "cn=IKCF63,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65c359e-361f-1037-8c23-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -890,9 +890,9 @@
 			"description": "",
 			"entryDN": "cn=IKCF64,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65c5646-361f-1037-8c24-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -916,9 +916,9 @@
 			"description": "",
 			"entryDN": "cn=IKCF65,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65c7914-361f-1037-8c25-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -942,15 +942,15 @@
 			"description": "",
 			"entryDN": "cn=IKCFUSER41 (1)\\2C IKCFUSER,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65222d4-361f-1037-8bd8-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Simple Wealth,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital KYC Admin,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital KYC Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Read",
+				"AU Digital BD Simple Wealth",
+				"AU Digital BD Write",
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital KYC Admin",
+				"AU Digital KYC Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -974,13 +974,13 @@
 			"description": "",
 			"entryDN": "cn=IKCFUSER42 (1)\\2C IKCFUSER,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65283aa-361f-1037-8bda-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Simple Wealth,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Read",
+				"AU Digital BD Simple Wealth",
+				"AU Digital BD Write",
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1004,13 +1004,13 @@
 			"description": "",
 			"entryDN": "cn=IKCFUSER43 (1)\\2C IKCFUSER,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b652b492-361f-1037-8bdb-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Simple Wealth,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Read",
+				"AU Digital BD Simple Wealth",
+				"AU Digital BD Write",
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1034,10 +1034,10 @@
 			"description": "",
 			"entryDN": "cn=IKCFUSER44 (1)\\2C IKCFUSER,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b653a6ea-361f-1037-8be7-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1061,10 +1061,10 @@
 			"description": "",
 			"entryDN": "cn=IKCFUSER45 (1)\\2C IKCFUSER,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65433d0-361f-1037-8bed-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1088,17 +1088,17 @@
 			"description": "",
 			"entryDN": "cn=Manager,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b640f2de-361f-1037-8b3f-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Simple Wealth,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital KYC Admin,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital KYC Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital KYC Write (FP),ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Write",
+				"AU Digital BD Read",
+				"AU Digital BD Simple Wealth",
+				"AU Digital PLBD Write users",
+				"AU Digital DAZ Write",
+				"AU Digital DAZ Read",
+				"AU Digital KYC Admin",
+				"AU Digital KYC Write",
+				"AU Digital KYC Write (FP)"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1122,9 +1122,9 @@
 			"description": "",
 			"entryDN": "cn=Ng\\2C Quentin (Admin),ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6549410-361f-1037-8bf0-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1148,9 +1148,9 @@
 			"description": "",
 			"entryDN": "cn=POR607 607\\2C Branch,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b656a00c-361f-1037-8bfc-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1174,11 +1174,11 @@
 			"description": "",
 			"entryDN": "cn=POR628 628\\2C Branch,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6567ff0-361f-1037-8bfb-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1202,11 +1202,11 @@
 			"description": "",
 			"entryDN": "cn=POR629 629\\2C Branch,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b656393c-361f-1037-8bfa-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1230,11 +1230,11 @@
 			"description": "",
 			"entryDN": "cn=POR630 630\\2C Branch,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b656195c-361f-1037-8bf9-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1258,11 +1258,11 @@
 			"description": "",
 			"entryDN": "cn=POR631 631\\2C Branch,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b655db7c-361f-1037-8bf8-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1286,9 +1286,9 @@
 			"description": "",
 			"entryDN": "cn=Rolf Baker,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68b0612-361f-1037-8d86-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1312,10 +1312,10 @@
 			"description": "",
 			"entryDN": "cn=Sartori\\2C David (Admin),ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b654effa-361f-1037-8bf2-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1339,9 +1339,9 @@
 			"description": "",
 			"entryDN": "cn=Test User,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b688ee36-361f-1037-8d78-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1365,11 +1365,11 @@
 			"description": "",
 			"entryDN": "cn=Test User (1)\\2C iKCF08,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6545a9a-361f-1037-8bef-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1393,10 +1393,10 @@
 			"description": "",
 			"entryDN": "cn=Test User\\2C PBVAN01,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65d5456-361f-1037-8c38-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital KYC Admin,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital KYC Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital KYC Admin",
+				"AU Digital KYC Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1420,10 +1420,10 @@
 			"description": "",
 			"entryDN": "cn=Test User\\2C WLTH01,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65d7594-361f-1037-8c39-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital KYC Admin,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital KYC Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital KYC Admin",
+				"AU Digital KYC Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1447,13 +1447,13 @@
 			"description": "",
 			"entryDN": "cn=Test User\\2C iKCF10,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b654b094-361f-1037-8bf1-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital KYC Admin,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital KYC Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital KYC Admin",
+				"AU Digital KYC Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1477,9 +1477,9 @@
 			"description": "",
 			"entryDN": "cn=VIP10test\\2C VIP10,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65b2afa-361f-1037-8c1c-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1503,10 +1503,10 @@
 			"description": "",
 			"entryDN": "cn=Yacoob\\2C Ateekur Rahman (Admin),ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65b4e22-361f-1037-8c1d-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1530,8 +1530,8 @@
 			"description": "",
 			"entryDN": "cn=applicationCreator,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68a4f9c-361f-1037-8d81-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -1554,8 +1554,8 @@
 			"description": "",
 			"entryDN": "cn=aucspptydsa,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "26a8466e-3623-1037-9de2-7b9f566e8eeb",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:55:02Z",
 			"objectClass": [
@@ -1578,9 +1578,9 @@
 			"description": "",
 			"entryDN": "cn=bdUserRead,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6877c18-361f-1037-8d70-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Read"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1604,8 +1604,8 @@
 			"description": "",
 			"entryDN": "cn=bdUserSimpleWealth,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b687b2d2-361f-1037-8d71-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -1628,9 +1628,9 @@
 			"description": "",
 			"entryDN": "cn=bdUserWrite,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68747d4-361f-1037-8d6f-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1654,9 +1654,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf46 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65a3b36-361f-1037-8c15-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1680,9 +1680,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf47 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65814c8-361f-1037-8c05-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1706,9 +1706,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf48 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65acb46-361f-1037-8c19-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1732,9 +1732,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf49 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65890e2-361f-1037-8c09-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1758,9 +1758,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf50 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65b094e-361f-1037-8c1b-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1784,9 +1784,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf51 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65a1bd8-361f-1037-8c14-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1810,9 +1810,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf52 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b657f5ce-361f-1037-8c04-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1836,9 +1836,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf53 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65a7b82-361f-1037-8c16-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1862,9 +1862,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf54 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6592b60-361f-1037-8c0d-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1888,9 +1888,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf55 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b658b090-361f-1037-8c0a-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1914,9 +1914,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf56 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b659e528-361f-1037-8c11-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1940,9 +1940,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf57 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b659ab12-361f-1037-8c10-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1966,9 +1966,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf58 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6596ae4-361f-1037-8c0e-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -1992,9 +1992,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf59 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6586b26-361f-1037-8c08-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2018,9 +2018,9 @@
 			"description": "",
 			"entryDN": "cn=ikcf60 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b659061c-361f-1037-8c0c-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2044,8 +2044,8 @@
 			"description": "",
 			"entryDN": "cn=krbtgt,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68709ea-361f-1037-8d6e-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2068,11 +2068,11 @@
 			"description": "",
 			"entryDN": "cn=plbduat,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6576640-361f-1037-8c01-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2096,11 +2096,11 @@
 			"description": "",
 			"entryDN": "cn=plbduat02,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b657bc6c-361f-1037-8c03-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2124,11 +2124,11 @@
 			"description": "",
 			"entryDN": "cn=plbduat1,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6579ca0-361f-1037-8c02-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2152,11 +2152,11 @@
 			"description": "",
 			"entryDN": "cn=plbdut,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65748a4-361f-1037-8c00-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2180,9 +2180,9 @@
 			"description": "",
 			"entryDN": "cn=sbosadmin,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68abc0c-361f-1037-8d84-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital CSP Support,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital CSP Support"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2206,8 +2206,8 @@
 			"description": "",
 			"entryDN": "cn=sbosuser,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68ad6c4-361f-1037-8d85-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2230,11 +2230,11 @@
 			"description": "",
 			"entryDN": "cn=test25 (1)\\2C ikcf,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6535a28-361f-1037-8be6-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2258,8 +2258,8 @@
 			"description": "",
 			"entryDN": "cn=user1,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6892252-361f-1037-8d79-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2282,8 +2282,8 @@
 			"description": "",
 			"entryDN": "cn=user2,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6893e22-361f-1037-8d7a-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2306,8 +2306,8 @@
 			"description": "",
 			"entryDN": "cn=user3,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6895d26-361f-1037-8d7b-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2330,8 +2330,8 @@
 			"description": "",
 			"entryDN": "cn=user4,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6899142-361f-1037-8d7c-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2354,8 +2354,8 @@
 			"description": "",
 			"entryDN": "cn=user6,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b689b0be-361f-1037-8d7d-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2378,8 +2378,8 @@
 			"description": "",
 			"entryDN": "cn=user7,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b689e552-361f-1037-8d7e-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2402,8 +2402,8 @@
 			"description": "",
 			"entryDN": "cn=user8,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68a01c2-361f-1037-8d7f-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2426,8 +2426,8 @@
 			"description": "",
 			"entryDN": "cn=user9,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68a1ca2-361f-1037-8d80-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2450,9 +2450,9 @@
 			"description": "",
 			"entryDN": "cn=vagrant,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6865234-361f-1037-8d6c-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2476,13 +2476,13 @@
 			"description": "",
 			"entryDN": "cn=viper39 (1)\\2C vip,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b651da68-361f-1037-8bd7-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Simple Wealth,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Read",
+				"AU Digital BD Simple Wealth",
+				"AU Digital BD Write",
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2506,14 +2506,14 @@
 			"description": "",
 			"entryDN": "cn=viper40 (1)\\2C vip,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6524548-361f-1037-8bd9-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Simple Wealth,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital BD Read",
+				"AU Digital BD Simple Wealth",
+				"AU Digital BD Write",
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2537,11 +2537,11 @@
 			"description": "",
 			"entryDN": "cn=viper6 (1)\\2C vip,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b653d214-361f-1037-8be8-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital DAZ Read",
+				"AU Digital DAZ Write",
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2565,9 +2565,9 @@
 			"description": "",
 			"entryDN": "cn=viper7 (1)\\2C vip,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b65e0482-361f-1037-8c41-65eead392ae4",
-			"hasSubordinates": "FALSE",
+			"hasSubordinates": false,
 			"memberOf": [
-				"cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com"
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
@@ -2591,8 +2591,8 @@
 			"description": "",
 			"entryDN": "cn=waskerb,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68a9f24-361f-1037-8d83-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
@@ -2615,8 +2615,8 @@
 			"description": "",
 			"entryDN": "cn=wsadmin,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68a7044-361f-1037-8d82-65eead392ae4",
-			"hasSubordinates": "FALSE",
-			"memberOf": [],
+			"hasSubordinates": false,
+			"memberOf": null,
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
