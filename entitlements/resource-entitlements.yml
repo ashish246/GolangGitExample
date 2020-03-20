@@ -1,0 +1,251 @@
+version: '1.0'
+ldap_groups:
+    - name: AU Digital CSP Support
+      roles:
+        - name: com.anz.csp.pty.support
+          entitlement_groups:
+            - name: com.anz.csp.pty.support
+              entitlements:
+                - com.anz.csp.partyservice.api.GET./account-aliases
+                - com.anz.csp.partyservice.api.GET./parties/{}/account-aliases
+                - com.anz.csp.partyservice.api.GET./account-aliases/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.preload
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.initialise
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.register
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.register
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.deregister
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.disable
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.enable
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.port
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.update
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.withdraw
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.validate
+                - com.anz.csp.partyservice.read
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases
+    - name: AU NPP Pega 7.2 PARTY SERV Users
+      roles:
+        - name: com.anz.csp.cdms.ib_ibsm
+          entitlement_groups:
+            - name: com.anz.csp.cdms.ib_ibsm
+              entitlements:
+                - com.anz.csp.partyservice.api.GET./parties
+                - com.anz.csp.partyservice.api.POST./query/party
+                - com.anz.csp.partyservice.api.GET./parties/{}/accounts/party-account-roles
+                - com.anz.csp.partyservice.api.GET./parties/{}/account-aliases
+                - com.anz.csp.partyservice.api.GET./account-aliases/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.initialise
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.register
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.register
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.deregister
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.port
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.update
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.withdraw
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.validate
+                - com.anz.csp.partyservice.api.GET./parties/{}/contact-points
+                - com.anz.csp.partyservice.api.POST./parties/{}/contact-points
+                - com.anz.csp.partyservice.api.PUT./contact-points/{}
+                - com.anz.csp.partyservice.api.DELETE./contact-points/{}
+                - com.anz.csp.partyservice.api.DELETE./preferences/{}
+                - com.anz.csp.partyservice.api.GET./parties/{}/notification-types
+                - com.anz.csp.partyservice.api.GET./parties/{}/subscriptions
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions
+                - com.anz.csp.partyservice.api.PUT./subscriptions/{}
+                - com.anz.csp.partyservice.api.DELETE./subscriptions/{}
+                - com.anz.csp.partyservice.api.GET./parties/{}/bundling-preferences
+                - com.anz.csp.partyservice.api.POST./parties/{}/bundling-preferences
+                - com.anz.csp.partyservice.api.PUT./bundling-preferences/{}
+                - com.anz.csp.partyservice.api.DELETE./bundling-preferences/{}
+                - com.anz.csp.partyservice.api.GET./parties/{}/accounts
+                - com.anz.csp.partyservice.api.POST./query/accounts
+                - com.anz.csp.partyservice.read
+                - com.anz.csp.partyservice.parties.read.mine
+                - com.anz.csp.auditservice.write
+                - com.anz.csp.partyservice.api.POST./query/party-related-by-account
+                - com.anz.csp.partyservice.api.GET./parties/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions/suspension
+                - com.anz.csp.partyservice.api.GET./subscriptions/{}/versions
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions/batch-creation
+                - com.anz.csp.partyservice.api.POST./subscriptions/batch-update
+                - com.anz.csp.partyservice.api.POST./subscriptions/batch-delete
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions/resumption
+                - com.anz.csp.partyservice.api.POST./account-aliases/batch-maintenance
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases
+        - name: com.anz.csp.cdms.ib4b
+          entitlement_groups:
+            - name: com.anz.csp.cdms.ib4b
+              entitlements:
+                - com.anz.csp.partyservice.api.GET./parties
+                - com.anz.csp.partyservice.api.POST./query/party
+                - com.anz.csp.partyservice.api.GET./parties/{}/accounts/party-account-roles
+                - com.anz.csp.partyservice.api.GET./parties/{}/account-aliases
+                - com.anz.csp.partyservice.api.GET./account-aliases/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.initialise
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.register
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.register
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.deregister
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.port
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.update
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.withdraw
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.validate
+                - com.anz.csp.partyservice.api.GET./parties/{}/contact-points
+                - com.anz.csp.partyservice.api.POST./parties/{}/contact-points
+                - com.anz.csp.partyservice.api.PUT./contact-points/{}
+                - com.anz.csp.partyservice.api.DELETE./contact-points/{}
+                - com.anz.csp.partyservice.api.DELETE./preferences/{}
+                - com.anz.csp.partyservice.api.GET./parties/{}/notification-types
+                - com.anz.csp.partyservice.api.GET./parties/{}/subscriptions
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions
+                - com.anz.csp.partyservice.api.PUT./subscriptions/{}
+                - com.anz.csp.partyservice.api.DELETE./subscriptions/{}
+                - com.anz.csp.partyservice.api.GET./parties/{}/bundling-preferences
+                - com.anz.csp.partyservice.api.POST./parties/{}/bundling-preferences
+                - com.anz.csp.partyservice.api.PUT./bundling-preferences/{}
+                - com.anz.csp.partyservice.api.DELETE./bundling-preferences/{}
+                - com.anz.csp.partyservice.api.GET./parties/{}/accounts
+                - com.anz.csp.partyservice.api.POST./query/accounts
+                - com.anz.csp.partyservice.api.GET./parties/{}/domains
+                - com.anz.csp.partyservice.api.POST./parties/{}/domains
+                - com.anz.csp.partyservice.api.PUT./domains/{}
+                - com.anz.csp.partyservice.read
+                - com.anz.csp.partyservice.parties.read.mine
+                - com.anz.csp.partyservice.parties.read.anyones
+                - com.anz.csp.auditservice.write
+                - com.anz.csp.partyservice.api.POST./query/party-related-by-account
+                - com.anz.csp.partyservice.api.GET./parties/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions/suspension
+                - com.anz.csp.partyservice.api.GET./subscriptions/{}/versions
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions/batch-creation
+                - com.anz.csp.partyservice.api.POST./subscriptions/batch-update
+                - com.anz.csp.partyservice.api.POST./subscriptions/batch-delete
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases
+                - com.anz.csp.partyservice.api.GET./parties/{}/consents
+                - com.anz.csp.partyservice.api.PUT./parties/{}/consents
+        - name: com.anz.csp.cdms.pega
+          entitlement_groups:
+            - name: com.anz.csp.cdms.ib4b
+              entitlements:
+                - com.anz.csp.partyservice.api.GET./parties
+                - com.anz.csp.partyservice.api.POST./query/party
+                - com.anz.csp.partyservice.api.GET./parties/{}/accounts/party-account-roles
+                - com.anz.csp.partyservice.api.GET./account-aliases
+                - com.anz.csp.partyservice.api.GET./parties/{}/account-aliases
+                - com.anz.csp.partyservice.api.GET./account-aliases/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.preload
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.initialise
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.register
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.register
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.deregister
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.disable
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.enable
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.port
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.update
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.withdraw
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.validate
+                - com.anz.csp.partyservice.api.GET./parties/{}/contact-points
+                - com.anz.csp.partyservice.api.GET./contact-points
+                - com.anz.csp.partyservice.api.POST./parties/{}/contact-points
+                - com.anz.csp.partyservice.api.PUT./contact-points/{}
+                - com.anz.csp.partyservice.api.DELETE./contact-points/{}
+                - com.anz.csp.partyservice.api.DELETE./preferences/{}
+                - com.anz.csp.partyservice.api.GET./parties/{}/notification-types
+                - com.anz.csp.partyservice.api.GET./parties/{}/subscriptions
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions
+                - com.anz.csp.partyservice.api.PUT./subscriptions/{}
+                - com.anz.csp.partyservice.api.DELETE./subscriptions/{}
+                - com.anz.csp.partyservice.api.GET./parties/{}/bundling-preferences
+                - com.anz.csp.partyservice.api.POST./parties/{}/bundling-preferences
+                - com.anz.csp.partyservice.api.PUT./bundling-preferences/{}
+                - com.anz.csp.partyservice.api.DELETE./bundling-preferences/{}
+                - com.anz.csp.partyservice.api.GET./parties/{}/accounts
+                - com.anz.csp.partyservice.api.POST./query/accounts
+                - com.anz.csp.partyservice.api.GET./parties/{}/domains
+                - com.anz.csp.partyservice.api.POST./parties/{}/domains
+                - com.anz.csp.partyservice.api.PUT./domains/{}
+                - com.anz.csp.partyservice.api.DELETE./domains/{}
+                - com.anz.csp.partyservice.read
+                - com.anz.csp.partyservice.parties.read.mine
+                - com.anz.csp.partyservice.parties.read.anyones
+                - com.anz.csp.auditservice.write
+                - com.anz.csp.partyservice.api.POST./query/party-related-by-account
+                - com.anz.csp.partyservice.api.GET./parties/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions/suspension
+                - com.anz.csp.partyservice.api.GET./subscriptions/{}/versions
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions/batch-creation
+                - com.anz.csp.partyservice.api.POST./subscriptions/batch-update
+                - com.anz.csp.partyservice.api.POST./subscriptions/batch-delete
+                - com.anz.csp.partyservice.api.POST./parties/{}/subscriptions/resumption
+                - com.anz.csp.partyservice.api.POST./account-aliases/batch-maintenance
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases
+        - name: com.anz.csp.cdms.serviceaccount
+          entitlement_groups:
+            - name: com.anz.csp.audit.write
+              entitlements:
+                - com.anz.csp.auditservice.write
+            - name: com.anz.csp.rds.fullaccess
+              entitlements:
+                - com.anz.csp.productservice.read
+                - com.anz.csp.productservice.write
+            - name: com.anz.csp.pds.fullaceess
+              entitlements:
+                - com.anz.csp.referenceservice.read
+                - com.anz.csp.referenceservice.write
+            - name: com.anz.csp.featuretoggle.readaccess
+              entitlements:
+                - com.anz.csp.partyservice.api.POST./subscriptions/batch-delete
+                - com.anz.csp.featuretoggle.api.GET./features/{}\
+        - name: com.anz.csp.cdms.ibstar
+          entitlement_groups:
+            - name: com.anz.csp.cdms.ibstar
+              entitlements:
+                - com.anz.csp.partyservice.api.POST./query/party
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.deregister
+                - com.anz.csp.partyservice.api.DELETE./subscriptions/{}
+                - com.anz.csp.partyservice.api.DELETE./bundling-preferences/{}
+                - com.anz.csp.partyservice.api.POST./subscriptions/batch-delete
+                - com.anz.csp.partyservice.api.POST./account-aliases/batch-maintenance
+                - com.anz.csp.partyservice.api.POST./parties/{}/profiles/resource-transfers
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}
+        - name: com.anz.csp.cdms.tg
+          entitlement_groups:
+            - name: com.anz.csp.cdms.tg
+              entitlements:
+                - com.anz.csp.partyservice.api.POST./query/party
+                - com.anz.csp.partyservice.api.GET./account-aliases
+                - com.anz.csp.partyservice.api.GET./parties/{}/account-aliases
+                - com.anz.csp.partyservice.api.GET./account-aliases/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.preload
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.initialise
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases.register
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.register
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.deregister
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.disable
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.enable
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.port
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.update
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.withdraw
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}.validate
+                - com.anz.csp.partyservice.read
+                - com.anz.csp.partyservice.api.POST./organisations
+                - com.anz.csp.partyservice.aliases.bypass.visibility.check
+                - com.anz.csp.partyservice.aliases.create.new.account
+                - com.anz.csp.partyservice.parties.delete.COBRAID
+                - com.anz.csp.partyservice.api.DELETE./parties/{}
+                - com.anz.csp.partyservice.api.PUT./account-aliases/{}
+                - com.anz.csp.partyservice.api.POST./parties/{}/account-aliases
+        - name: com.anz.csp.consent
+          entitlement_groups:
+            - name: com.anz.csp.consent
+              entitlements:
+                - com.anz.csp.partyservice.read
+                - com.anz.csp.partyservice.api.GET./parties/{}/consents
+                - com.anz.csp.partyservice.api.PUT./parties/{}/consents
+        - name: com.anz.csp.services
+          entitlement_groups:
+            - name: com.anz.csp.services
+              entitlements:
+                - com.anz.csp.partyservice.api.POST./query/party
+                - com.anz.csp.partyservice.api.GET./parties/{}/contact-points
