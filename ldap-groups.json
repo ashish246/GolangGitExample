@@ -1,5 +1,5 @@
 {
-	"lastmodified": "2020-03-20T12:02:31.313578Z",
+	"lastmodified": "2020-03-20T12:10:44.026242Z",
 	"type": "FULL",
 	"groups": {
 		"AU Digital BD Read": {
@@ -10,6 +10,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital BD Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b643da8a-361f-1037-8b4f-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"Manager",
 				"viper39 (1), vip",
@@ -43,6 +44,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital BD Simple Wealth,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b644259e-361f-1037-8b50-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"Manager",
 				"viper39 (1), vip",
@@ -73,6 +75,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital BD Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b643243c-361f-1037-8b4e-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"Manager",
 				"viper39 (1), vip",
@@ -109,6 +112,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital BDS SI Users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "0e0ac4b0-8253-1038-8e06-43d29c1be0d9",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"CSPUsr23"
 			],
@@ -134,6 +138,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital CSP Batch,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6469dd8-361f-1037-8b58-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"CSPUsr24"
 			],
@@ -159,6 +164,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital CSP Support,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6938b34-361f-1037-8d88-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"sbosadmin",
 				"CSPUsr3",
@@ -188,6 +194,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital DAZ Read,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b644e9de-361f-1037-8b53-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"Manager",
 				"test25 (1), ikcf",
@@ -245,6 +252,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital DAZ Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b644a6c2-361f-1037-8b52-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"Manager",
 				"ikcf52 (1), ikcf",
@@ -320,6 +328,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital KYC Admin,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b64547da-361f-1037-8b54-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"Manager",
 				"IKCFUSER41 (1), IKCFUSER",
@@ -349,6 +358,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital KYC Write,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6458d62-361f-1037-8b55-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"Manager",
 				"IKCFUSER41 (1), IKCFUSER",
@@ -378,6 +388,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital KYC Write (FP),ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b645cc96-361f-1037-8b56-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"Manager"
 			],
@@ -403,6 +414,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital PLBD Write users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b6446608-361f-1037-8b51-65eead392ae4",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"Manager",
 				"test25 (1), ikcf",
@@ -451,6 +463,7 @@
 			"description": "",
 			"entryDN": "cn=AU Digital Restricted BDS Users,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "d2fd5d60-8252-1038-8e05-43d29c1be0d9",
+			"hasSubordinates": "FALSE",
 			"member": [
 				"CSPUsr25"
 			],
