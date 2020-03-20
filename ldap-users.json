@@ -1,8 +1,305 @@
 {
-	"lastmodified": "2020-03-20T11:20:41.521493Z",
+	"lastmodified": "2020-03-20T11:49:16.611355Z",
 	"type": "FULL",
 	"users": {
-		"": {
+		"1, lenovo": {
+			"versionId": 1
+		},
+		"1, lenovo123": {
+			"versionId": 1
+		},
+		"1, lenovoplbduat002": {
+			"versionId": 1
+		},
+		"CAZ01": {
+			"versionId": 1
+		},
+		"CAZ02": {
+			"versionId": 1
+		},
+		"CAZ03": {
+			"versionId": 1
+		},
+		"CAZ04": {
+			"versionId": 1
+		},
+		"CAZ05": {
+			"versionId": 1
+		},
+		"CI": {
+			"versionId": 1
+		},
+		"CSPUsr1": {
+			"versionId": 1
+		},
+		"CSPUsr10": {
+			"versionId": 1
+		},
+		"CSPUsr2": {
+			"versionId": 1
+		},
+		"CSPUsr21": {
+			"versionId": 1
+		},
+		"CSPUsr22": {
+			"versionId": 1
+		},
+		"CSPUsr23": {
+			"versionId": 1
+		},
+		"CSPUsr24": {
+			"versionId": 1
+		},
+		"CSPUsr25": {
+			"versionId": 1
+		},
+		"CSPUsr3": {
+			"versionId": 1
+		},
+		"CSPUsr4": {
+			"versionId": 1
+		},
+		"CSPUsr5": {
+			"versionId": 1
+		},
+		"CSPUsr6": {
+			"versionId": 1
+		},
+		"CSPUsr7": {
+			"versionId": 1
+		},
+		"CSPUsr8": {
+			"versionId": 1
+		},
+		"CSPUsr9": {
+			"versionId": 1
+		},
+		"DAZ_PLBD_USER": {
+			"versionId": 1
+		},
+		"DAZ_READ_USER": {
+			"versionId": 1
+		},
+		"DAZ_WEALTH_USER": {
+			"versionId": 1
+		},
+		"DAZ_WRITE_USER": {
+			"versionId": 1
+		},
+		"DAZ_superuser": {
+			"versionId": 1
+		},
+		"Dunn, Nigel (Admin)": {
+			"versionId": 1
+		},
+		"Guest": {
+			"versionId": 1
+		},
+		"IKCF61": {
+			"versionId": 1
+		},
+		"IKCF62": {
+			"versionId": 1
+		},
+		"IKCF63": {
+			"versionId": 1
+		},
+		"IKCF64": {
+			"versionId": 1
+		},
+		"IKCF65": {
+			"versionId": 1
+		},
+		"IKCFUSER41 (1), IKCFUSER": {
+			"versionId": 1
+		},
+		"IKCFUSER42 (1), IKCFUSER": {
+			"versionId": 1
+		},
+		"IKCFUSER43 (1), IKCFUSER": {
+			"versionId": 1
+		},
+		"IKCFUSER44 (1), IKCFUSER": {
+			"versionId": 1
+		},
+		"IKCFUSER45 (1), IKCFUSER": {
+			"versionId": 1
+		},
+		"Manager": {
+			"versionId": 1
+		},
+		"Ng, Quentin (Admin)": {
+			"versionId": 1
+		},
+		"POR607 607, Branch": {
+			"versionId": 1
+		},
+		"POR628 628, Branch": {
+			"versionId": 1
+		},
+		"POR629 629, Branch": {
+			"versionId": 1
+		},
+		"POR630 630, Branch": {
+			"versionId": 1
+		},
+		"POR631 631, Branch": {
+			"versionId": 1
+		},
+		"Rolf Baker": {
+			"versionId": 1
+		},
+		"Sartori, David (Admin)": {
+			"versionId": 1
+		},
+		"Test User": {
+			"versionId": 1
+		},
+		"Test User (1), iKCF08": {
+			"versionId": 1
+		},
+		"Test User, PBVAN01": {
+			"versionId": 1
+		},
+		"Test User, WLTH01": {
+			"versionId": 1
+		},
+		"Test User, iKCF10": {
+			"versionId": 1
+		},
+		"VIP10test, VIP10": {
+			"versionId": 1
+		},
+		"Yacoob, Ateekur Rahman (Admin)": {
+			"versionId": 1
+		},
+		"applicationCreator": {
+			"versionId": 1
+		},
+		"aucspptydsa": {
+			"versionId": 1
+		},
+		"bdUserRead": {
+			"versionId": 1
+		},
+		"bdUserSimpleWealth": {
+			"versionId": 1
+		},
+		"bdUserWrite": {
+			"versionId": 1
+		},
+		"ikcf46 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf47 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf48 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf49 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf50 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf51 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf52 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf53 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf54 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf55 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf56 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf57 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf58 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf59 (1), ikcf": {
+			"versionId": 1
+		},
+		"ikcf60 (1), ikcf": {
+			"versionId": 1
+		},
+		"krbtgt": {
+			"versionId": 1
+		},
+		"plbduat": {
+			"versionId": 1
+		},
+		"plbduat02": {
+			"versionId": 1
+		},
+		"plbduat1": {
+			"versionId": 1
+		},
+		"plbdut": {
+			"versionId": 1
+		},
+		"sbosadmin": {
+			"versionId": 1
+		},
+		"sbosuser": {
+			"versionId": 1
+		},
+		"test25 (1), ikcf": {
+			"versionId": 1
+		},
+		"user1": {
+			"versionId": 1
+		},
+		"user2": {
+			"versionId": 1
+		},
+		"user3": {
+			"versionId": 1
+		},
+		"user4": {
+			"versionId": 1
+		},
+		"user6": {
+			"versionId": 1
+		},
+		"user7": {
+			"versionId": 1
+		},
+		"user8": {
+			"versionId": 1
+		},
+		"user9": {
+			"versionId": 1
+		},
+		"vagrant": {
+			"versionId": 1
+		},
+		"viper39 (1), vip": {
+			"versionId": 1
+		},
+		"viper40 (1), vip": {
+			"versionId": 1
+		},
+		"viper6 (1), vip": {
+			"versionId": 1
+		},
+		"viper7 (1), vip": {
+			"versionId": 1
+		},
+		"waskerb": {
+			"versionId": 1
+		},
+		"wsadmin": {
 			"versionId": 1
 		}
 	}
