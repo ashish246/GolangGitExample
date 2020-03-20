@@ -1,6 +1,6 @@
 {
-	"lastmodified": "2020-03-03T01:43:04.709053Z",
-	"type": "INCREMENTAL",
+	"lastmodified": "2020-03-20T01:19:35.511837Z",
+	"type": "FULL",
 	"groups": {
 		"": {
 			"uuid": "b640bddc-361f-1037-8b3e-65eead392ae4",
@@ -176,7 +176,7 @@
 		},
 		"AU Digital CSP Support": {
 			"uuid": "b6938b34-361f-1037-8d88-65eead392ae4",
-			"version_id": 2,
+			"version_id": 1,
 			"object_classes": [
 				"groupOfUniqueNames",
 				"top"
@@ -186,13 +186,13 @@
 				"CSPUsr3",
 				"CSPUsr22",
 				"CSPUsr2",
-				"CAZ02"
+				"CAZ01"
 			],
 			"common_name": "AU Digital CSP Support",
 			"create_timestamp": "2017-09-25T09:29:02Z",
 			"creators_name": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"entry_domain_name": "cn=AU Digital CSP Support,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-			"modify_timestamp": "2020-03-03T01:43:00Z",
+			"modify_timestamp": "2020-03-09T23:10:20Z",
 			"modifiers_name": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"structural_object_class": "groupOfUniqueNames",
 			"subschema_subentry": "cn=Subschema",
