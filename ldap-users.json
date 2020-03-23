@@ -1,6 +1,6 @@
 {
-	"lastmodified": "2020-03-22T11:11:54.710546Z",
-	"type": "FULL",
+	"lastmodified": "0001-01-01T00:00:00Z",
+	"type": "",
 	"users": {
 		"1, lenovo": {
 			"SAMAccountName": "lenovo",
@@ -113,8 +113,7 @@
 			"memberOf": [
 				"AU Digital DAZ Read",
 				"AU Digital DAZ Write",
-				"AU Digital PLBD Write users",
-				"AU Digital CSP Support"
+				"AU Digital PLBD Write users"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"modifyTimestamp": "2017-09-25T09:29:02Z",
