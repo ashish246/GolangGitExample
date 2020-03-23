@@ -5,6 +5,7 @@
 		"sbosadmin": {
 			"SAMAccountName": "sbosadmin",
 			"commonName": "sbosadmin",
+			"createTimestamp": "2017-09-25T09:29:02Z",
 			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
 			"entryDN": "cn=sbosadmin,ou=Users,ou=AU,dc=globaltest,dc=anz,dc=com",
 			"entryUUID": "b68abc0c-361f-1037-8d84-65eead392ae4",
@@ -13,13 +14,14 @@
 				"AU Digital CSP Support"
 			],
 			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
+			"modifyTimestamp": "2017-09-25T09:29:02Z",
 			"objectClass": [
 				"securityPrincipal",
 				"top",
 				"person"
 			],
 			"structuralObjectClass": "person",
-			"subschemaSubentry": "cn=Subschema",
+			"subschemaSubentry": "Subschema",
 			"surname": "dummydn",
 			"versionId": 1
 		}
