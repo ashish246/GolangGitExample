@@ -1,27 +1,27 @@
 {
-	"lastmodified": "0001-01-01T00:00:00Z",
-	"type": "",
-	"groups": {
-		"AU Digital CSP Support": {
-			"commonName": "AU Digital CSP Support",
-			"createTimestamp": "2017-09-25T09:29:02Z",
-			"creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"entryDN": "cn=AU Digital CSP Support,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
-			"entryUUID": "b6938b34-361f-1037-8d88-65eead392ae4",
-			"hasSubordinates": false,
-			"member": [
-				"sbosadmin",
-				"CAZ01"
-			],
-			"modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
-			"modifyTimestamp": "2017-09-25T09:29:02Z",
-			"objectClass": [
-				"groupOfUniqueNames",
-				"top"
-			],
-			"structuralObjectClass": "groupOfUniqueNames",
-			"subschemaSubentry": "cn=Subschema",
-			"versionId": 1
-		}
-	}
+  "lastmodified": "0001-01-01T00:00:00Z",
+  "type": "FULL",
+  "groups": {
+    "AU Digital CSP Support": {
+      "commonName": "AU Digital CSP Support",
+      "createTimestamp": "2017-09-25T09:29:02Z",
+      "creatorsName": "cn=admin,dc=globaltest,dc=anz,dc=com",
+      "entryDN": "cn=AU Digital CSP Support,ou=Groups,ou=AU,dc=globaltest,dc=anz,dc=com",
+      "entryUUID": "b6938b34-361f-1037-8d88-65eead392ae4",
+      "hasSubordinates": false,
+      "member": [
+        "sbosadmin",
+        "CAZ01"
+      ],
+      "modifiersName": "cn=admin,dc=globaltest,dc=anz,dc=com",
+      "modifyTimestamp": "2017-09-25T09:29:02Z",
+      "objectClass": [
+        "groupOfUniqueNames",
+        "top"
+      ],
+      "structuralObjectClass": "groupOfUniqueNames",
+      "subschemaSubentry": "cn=Subschema",
+      "versionId": 1
+    }
+  }
 }
